@@ -1,5 +1,7 @@
-## Hi there 👋
 
+<p align="center">
+  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Hello%20my%20name%20is%20Sid&reversal=true&desc=Software%20Engineer&descAlignY=57&textBg=false&fontAlign=50&fontAlignY=36)"/>
+</p>
 <!--
 **siddhantripathi/siddhantripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
