@@ -9,5 +9,5 @@
 - 🌱 **Learning**: Advanced LLM fine-tuning, Kubernetes-native CI/CD, and distributed systems design
 - ⚙️ **Stack**: Python · TypeScript · React · Flutter · Docker · GitHub Actions · AWS · Azure · MongoDB · PostgreSQL
 - 🤝 **Let’s Connect**:  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/siddhant-tripathi)  
-  - 🌐 [Personal Website](https://siddhantripathi.github.io/Personal-Website/)  
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/siddhant-tripathi) 
+  - 🌐 [Portfolio Website](https://siddhantripathi.github.io/Personal-Website/)  
