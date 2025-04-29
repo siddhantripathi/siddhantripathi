@@ -7,7 +7,11 @@
 
 - 🔭 **Current**: Software Engineer @ Life Stages — architecting event-driven microservices and multi-agent LLMs to power personalized wellness for 5k+ MAU  
 - 🌱 **Learning**: Advanced LLM fine-tuning, Kubernetes-native CI/CD, and distributed systems design
+  
 - ⚙️ **Stack**: Python · TypeScript · React · Flutter · Docker · GitHub Actions · AWS · Azure · MongoDB · PostgreSQL
+- 
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            
 - 🤝 **Let’s Connect**:  
   - 🔗 [LinkedIn](https://www.linkedin.com/in/siddhant-tripathi) 
   - 🌐 [Portfolio Website](https://siddhantripathi.github.io/Personal-Website/)  
