@@ -1,20 +1,13 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Hello%20my%20name%20is%20Sid&reversal=true&desc=Software%20Engineer&descAlignY=57&textBg=false&fontAlign=50&fontAlignY=36"/>
+  <img src="[https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Hello%20my%20name%20is%20Sid&reversal=true&desc=Software%20Engineer&descAlignY=57&textBg=false&fontAlign=50&fontAlignY=36](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Hi%20there%20I'm%20Sid&reversal=true&desc=Software%20Engineer&descAlignY=57&textBg=false&fontAlign=50&fontAlignY=36)"/>
 </p>
 
-**Check out my [website](https://siddhantripathi.github.io/Personal-Website/) **
-<!--
-**siddhantripathi/siddhantripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Engineer & AI/ML Enthusiast** with 2+ years of experience building and scaling reliable, fault-tolerant systems. I love bridging data pipelines, cloud infrastructure, and user-facing apps to deliver seamless, AI-driven experiences.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Current**: Software Engineer @ Life Stages — architecting event-driven microservices and multi-agent LLMs to power personalized wellness for 5k+ MAU  
+- 🌱 **Learning**: Advanced LLM fine-tuning, Kubernetes-native CI/CD, and distributed systems design
+- ⚙️ **Stack**: Python · TypeScript · React · Flutter · Docker · GitHub Actions · AWS · Azure · MongoDB · PostgreSQL
+- 🤝 **Let’s Connect**:  
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/siddhant-tripathi)  
+  - 🌐 [Personal Website](https://siddhantripathi.github.io/Personal-Website/)  
