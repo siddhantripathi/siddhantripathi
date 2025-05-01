@@ -8,7 +8,7 @@
 - 🔭 **Current**: Software Engineer @ Life Stages — architecting event-driven microservices and multi-agent LLMs to power personalized wellness for 5k+ MAU  
 - 🌱 **Learning**: Advanced LLM fine-tuning, Kubernetes-native CI/CD, and distributed systems design
   
-- ⚙️ **Stack**: Python · TypeScript · React · Flutter · Docker · GitHub Actions · AWS · Azure · MongoDB · PostgreSQL
+- ⚙️ **Stack**: Python · TypeScript · React · Flutter · Docker · GitHub Actions · AWS · Azure · MongoDB · PostgreSQL and more
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" />
